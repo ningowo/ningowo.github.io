@@ -6,8 +6,8 @@ The homepage website is easy to use. After enter the index.html, it has three bu
 
 **[Click to go to homepage](https://ningowo.github.io/)**
 
-![preview_image1](./images/diaplay1.jpg)
-![preview_image2](./images/diaplay2.jpg)
+![preview_image1](https://github.com/ningowo/ningowo.github.io/blob/main/images/display1.jpg)
+![preview_image2](https://github.com/ningowo/ningowo.github.io/blob/main/images/display2.jpg)
 
 [video demonstration](https://ningowo.github.io/??????)
 
