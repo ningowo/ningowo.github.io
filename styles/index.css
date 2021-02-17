@@ -27,3 +27,9 @@ img.bg {
   left: 0;
   z-index: -1;
 }
+
+#thumbnail {
+  max-width: 50px;
+  max-height: auto;
+  object-fit: cover;
+}
