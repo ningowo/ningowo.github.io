@@ -2,7 +2,7 @@ Author: Ning Ding
 
 This is a practice of using **HTML, CSS, JavaScript and Bootstrap** to build personal homepage.
 
-The homepage website is easy to use. After enter the index.html, it has three buttons which allow you to see the information you want.
+The homepage website is easy to use. After entering the homapage, it has three buttons which allow you to see the information you want. And in info page, click tags on left to go to navigate to that part, and click back button to back to homepage.
 
 **[Click to go to homepage](https://ningowo.github.io/)**
 
